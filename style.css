@@ -1,0 +1,26 @@
+body {
+    background: pink
+}
+h1{text-align: center;
+  color:purple;
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align:left side ;
+}
+
+#missao {
+    font-size: 30px
+}
+
+em strong {
+    color: purple;
+}
